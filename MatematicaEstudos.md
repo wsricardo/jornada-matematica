@@ -327,3 +327,7 @@ Analise, Geraldo Ávila
 Analise, Djairo
 
 Equações Diferenciais dos Professores Djairo Guedes e Aloísio Freiria
+
+## Links
+
+[Github Jornada Matemática](https://github.com/wsricardo/jornada-matematica)
